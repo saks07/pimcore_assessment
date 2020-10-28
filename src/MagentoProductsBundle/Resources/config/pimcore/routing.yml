@@ -1,0 +1,5 @@
+magento_products:
+    resource: "@MagentoProductsBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
